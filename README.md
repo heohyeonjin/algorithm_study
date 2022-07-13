@@ -43,11 +43,14 @@
 
 ## 📅 일정
 
-|주차|문제1|문제2|문제3|
-|:-----:|:-----:|:-----:|:-----:|
-|1주차(220425~)|[완전이진트리](https://www.acmicpc.net/problem/9934)|[나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
-|2주차(220502~)|[꿀 따기](https://www.acmicpc.net/problem/21758)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[행복 유치원](https://www.acmicpc.net/problem/13164)|
-|3주차(220509~)|[종이접기](https://www.acmicpc.net/problem/1802)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[샤워실 바닥깔기](https://www.acmicpc.net/problem/14600)|
-|4주차(220516~)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|
-|5주차(220523~)|[달력](https://www.acmicpc.net/problem/20207)|[호수 홀릭 호석](https://www.acmicpc.net/problem/20164)|[빗물](https://www.acmicpc.net/problem/14719)|
-|6주차(220626~)|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|
+|주차|문제1|문제2|문제3|유형|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|1주차(220425~)|[완전이진트리](https://www.acmicpc.net/problem/9934)|[나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[트리의 지름](https://www.acmicpc.net/problem/1967)|트리|
+|2주차(220502~)|[꿀 따기](https://www.acmicpc.net/problem/21758)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[행복 유치원](https://www.acmicpc.net/problem/13164)|그리디|
+|3주차(220509~)|[종이접기](https://www.acmicpc.net/problem/1802)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[샤워실 바닥깔기](https://www.acmicpc.net/problem/14600)|분할정복|
+|4주차(220516~)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|프로그래머스|
+|5주차(220523~)|[달력](https://www.acmicpc.net/problem/20207)|[호수 홀릭 호석](https://www.acmicpc.net/problem/20164)|[빗물](https://www.acmicpc.net/problem/14719)|구현|
+|6주차(220627~)|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|프로그래머스|
+|7주차(220704~)|[ZOAC](https://www.acmicpc.net/problem/16719)|[트리순회](https://www.acmicpc.net/problem/22856)|[폴더정리(small)](https://www.acmicpc.net/problem/22860)|구현|
+|8주차(220711~)|[일루미네이션](https://www.acmicpc.net/problem/5547)|[연구소](https://www.acmicpc.net/problem/14502)|[인구이동](https://www.acmicpc.net/problem/16234)|그래프|
+|9주차(220718~)|[ABCDE](https://www.acmicpc.net/problem/13023)|[치즈](https://www.acmicpc.net/problem/2636)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|그래프|
