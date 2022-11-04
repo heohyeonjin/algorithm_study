@@ -43,6 +43,10 @@
 
 ## 📅 일정
 
+<details>
+<summary>1-10주차</summary>
+<div markdown="1">       
+
 |주차|문제1|문제2|문제3|유형|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |1주차|[완전이진트리](https://www.acmicpc.net/problem/9934)|[나무 위의 빗물](https://www.acmicpc.net/problem/17073)|[트리의 지름](https://www.acmicpc.net/problem/1967)|트리|
@@ -54,3 +58,39 @@
 |7주차|[ZOAC](https://www.acmicpc.net/problem/16719)|[트리순회](https://www.acmicpc.net/problem/22856)|[폴더정리(small)](https://www.acmicpc.net/problem/22860)|구현|
 |8주차|[일루미네이션](https://www.acmicpc.net/problem/5547)|[연구소](https://www.acmicpc.net/problem/14502)|[인구이동](https://www.acmicpc.net/problem/16234)|그래프|
 |9주차|[ABCDE](https://www.acmicpc.net/problem/13023)|[치즈](https://www.acmicpc.net/problem/2636)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|그래프|
+|10주차|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|프로그래머스|
+
+</div>
+</details>
+
+<details>
+<summary>11-20주차</summary>
+<div markdown="1">       
+
+|주차|문제1|문제2|문제3|유형|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|11주차|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[센서](https://www.acmicpc.net/problem/2212)|[우체국](https://www.acmicpc.net/problem/2141)|그리디|
+|12주차|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|KAKAO BLIND RECRUITMENT|
+|13주차|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|KAKAO BLIND RECRUITMENT|
+|14주차|[구슬탈출2](https://www.acmicpc.net/problem/13460)|[2048(easy)](https://www.acmicpc.net/problem/12100)|[뱀](https://www.acmicpc.net/problem/3190)|삼성SW역량기출|
+|15주차|[배](https://www.acmicpc.net/problem/1092)|[크게 만들기](https://www.acmicpc.net/problem/2812)|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|그리디|
+|16주차|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|[테트로미노](https://www.acmicpc.net/problem/14500)|[아기 상어](https://www.acmicpc.net/problem/16236)|삼성SW역량기출|
+|17주차|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[감시](https://www.acmicpc.net/problem/15683)|[치킨 배달](https://www.acmicpc.net/problem/15686)|삼성SW역량기출|
+|18주차|[괄호 제거](https://www.acmicpc.net/problem/2800)|[데이터 체커](https://www.acmicpc.net/problem/22942)|[탑](https://www.acmicpc.net/problem/2493)|자료구조|
+|19주차|[공유기 설치](https://www.acmicpc.net/problem/2110)|[입국심사](https://www.acmicpc.net/problem/3079)|[두 용액](https://www.acmicpc.net/problem/2470)|이분탐색|
+|20주차|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[동전 1](https://www.acmicpc.net/problem/2293)|[알약](https://www.acmicpc.net/problem/4811)|구현,DP|
+
+</div>
+</details>
+
+<details>
+<summary>21-30주차</summary>
+<div markdown="1">
+
+|주차|문제1|문제2|문제3|유형|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|21주차|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[파티](https://www.acmicpc.net/problem/1238)|[부분합](https://www.acmicpc.net/problem/1806)|문자열,그래프,투포인터|
+</div>
+</details>
+
+
